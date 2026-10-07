@@ -52,4 +52,4 @@ This portfolio uses approved public content and does not include sensitive perso
 
 ## Acknowledgment
 
-Created as part of the Kennedy Tech Academy Web Development program. Testing
+Created as part of the Kennedy Tech Academy Web Development program.
